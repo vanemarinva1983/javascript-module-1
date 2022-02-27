@@ -1,3 +1,9 @@
-// Start by creating a variable `message`
+const name = "Vanessa";
+const nameLength = name.length
+const nameLowerCase = name.toLowerCase();
 
-console.log(message);
+const resultadoExercise = name + " " + nameLength
+
+console.log ("My name is", name + " and my name is" , nameLength + " characters long")
+
+
