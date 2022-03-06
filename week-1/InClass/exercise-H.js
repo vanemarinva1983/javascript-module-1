@@ -25,7 +25,7 @@ const resta = edadDeDiferencia (1984, 2005)
 console.log(resta);
 
 function result (age1, age2, resta) {
-    return "Yo naci en " + retornarEdadNacimiento1(age1) + " y mi prima en " + retornarEdadNacimiento2(age2) + " tenemos de diferencia " + resta + " años"
+    return "Yo naci en " + retornarEdadNacimiento1(age1) + " y mi prima en " + retornarEdadNacimiento2(age2) + " tenemos de diferencia " + resta + " años."
     
 }  
 
